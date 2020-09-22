@@ -1,0 +1,63 @@
+1.CloverX64-5122-ocnone-2109.5
+
+I write briefly after.
+
+BigSur was booted(54sec).
+Network OK
+Sound NG
+WEG OK
+SMBIOS NG
+USBmap NG
+
+debugON210905BS.log
+
+Catalina was booted(53sec).
+Network OK
+Sound NG
+(WEG OK)...Maybe
+SMBIOS NG
+USBmap NG
+
+debugON210905CT.log
+
+2.CloverX64-5122-ockernel.2109.5
+
+BigSur was booted(44sec).
+Network OK
+Sound NG
+WEG OK
+SMBIOS partially OK(Apple ID NG)
+USBmap OK
+
+debugOK210905BS.log
+
+Catalina was booted(40sec).
+Network OK
+Sound NG
+(WEG OK)...Maybe
+SMBIOS partially NG(Apple ID NG)
+USBmap OK
+
+debugOK210905CT.log
+
+3.CloverX64-5122-ocall.2109.5
+
+BigSur was booted(48sec).
+Network OK
+Sound OK
+WEG OK
+SMBIOS OK
+USBmap OK
+Perfect!
+
+debugOA210905BS.log
+
+Catalina was booted(46sec).
+Network OK
+Sound OK
+WEG OK
+SMBIOS OK
+USBmap OK
+Perfect!
+
+debugOA210905CT.log
