@@ -206,6 +206,19 @@
 	</dict>
 	<key>Devices</key>
 	<dict>
+		<key>Properties</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>BwAAAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>AwCSPg==</data>
+			</dict>
+		</dict>
 		<key>USB</key>
 		<dict>
 			<key>NameEH00</key>
@@ -215,7 +228,7 @@
 			<key>AddClockID</key>
 			<false/>
 		</dict>
-		<key>Audio</key>
+		<key>#Audio</key>
 		<dict>
 			<key>ResetHDA</key>
 			<true/>
