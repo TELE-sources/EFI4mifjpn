@@ -430,6 +430,8 @@
 		<false/>
 		<key>SyncRuntimePermissions</key>
 		<true/>
+		<key>ProvideConsoleGopEnable</key>
+		<true/>
 
 		<key>FuzzyMatch</key>
 		<true/>
